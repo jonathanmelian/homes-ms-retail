@@ -1,0 +1,6 @@
+{
+    "name" : "product",
+    "sku" : "sku1",
+    "not_description" : "description1",
+    "price" : 1.1
+}
