@@ -1,0 +1,16 @@
+{
+    "first_name": "Name",
+    "last_name": "Last Name",
+    "email": "emailemail.com",
+    "phone": "7869700939",
+    "items":[
+        {
+            "product_id": 1,
+            "count": 1
+        },
+        {
+            "product_id": 2,
+            "count": 10
+        }
+    ]
+}
